@@ -21,16 +21,15 @@ You are suggested to automatize the process of changing the words with abbreviat
         internationalization,
         pneumonoultramicroscopicsilicovolcanoconiosis]
 
-* ##### return an array that contains the output e.g.
-
-      [word,
-      l10n,
-      i18n,
-      p43s]
+* ##### Return an array that contains the output e.g.
+     * word 
+     * l10n 
+     * i18n
+     * p43s
   
-* ##### assign the returened array to a variable named _abrv_
-* ##### loop over the _abrv_ and log them in the console in this format 
-1. word
-2. l10n
-3. i18n
-4. p43s
+* ##### Assign the returened array to a variable named _abrv_
+* ##### Loop over the _abrv_ and log them in the console in this format 
+  1. word
+  2. l10n
+  3. i18n
+  4. p43s
