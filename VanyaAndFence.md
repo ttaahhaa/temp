@@ -14,23 +14,23 @@ Print a single integer in the console-log — the minimum possible valid width o
 ---
 Examples...
 
-input
+##### input
 ###### 3 7
 ###### 4 5 14
-output
-4
+##### output
+###### 4
 ----
-input
+##### input
 ###### 6 1
 ###### 1 1 1 1 1 1
-output
-6
+##### output
+###### 6
 ---
-input
+##### input
 ###### 6 5
 ###### 7 6 8 9 10 5
-output
-11
+##### output
+###### 11
 ---
 #### Note
 * In the first sample, only person number 3 must bend down, so the required width is equal to 1 + 1 + 2 = 4.
