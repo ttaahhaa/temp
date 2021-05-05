@@ -15,20 +15,20 @@ Print a single integer in the console-log — the minimum possible valid width o
 Examples...
 
 input
-3 7
-4 5 14
+###### 3 7
+###### 4 5 14
 output
 4
 ----
 input
-6 1
-1 1 1 1 1 1
+###### 6 1
+###### 1 1 1 1 1 1
 output
 6
 ---
 input
-6 5
-7 6 8 9 10 5
+###### 6 5
+###### 7 6 8 9 10 5
 output
 11
 ---
