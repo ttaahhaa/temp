@@ -14,19 +14,19 @@ code
 edoc
 ##### output
 YES
-
+---
 ##### input
 abb
 
 aba
 ##### output
 NO
-
+---
 ##### input
 code
 
 code
 ##### output
 NO
-
+---
 Note: Don't use reverse function
