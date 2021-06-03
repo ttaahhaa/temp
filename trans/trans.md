@@ -10,7 +10,7 @@ The translation from the Berland language into the Birland language is not an ea
 ### Examples
 ##### input
 > code
-
+> 
 > edoc
 ##### output
 > YES
