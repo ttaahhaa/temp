@@ -23,6 +23,7 @@ Output n lines. Each line should contain a string consisting of m characters. Do
 > 
 > \###
 
+--- 
 ##### input
 > 3 4
 ##### output
@@ -32,6 +33,7 @@ Output n lines. Each line should contain a string consisting of m characters. Do
 > 
 > \####
 
+--- 
 ##### input
 > 5 3
 ##### output
@@ -45,6 +47,7 @@ Output n lines. Each line should contain a string consisting of m characters. Do
 > 
 > \###
 
+---
 ##### input
 > 9 9
 ##### output
