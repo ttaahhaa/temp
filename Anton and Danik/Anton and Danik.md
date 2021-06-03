@@ -16,20 +16,20 @@ If Anton and Danik won the same number of games, print "Friendship" (without quo
 
 ### Examples
 ##### input
-6
-ADAAAA
+> 6
+> ADAAAA
 ##### output
-Anton
+> Anton
 
 ##### input
-7
-DDDAADA
+> 7
+> DDDAADA
 ##### output
 Danik
 
 ##### input
-6
-DADADA
+> 6
+> DADADA
 ##### output
 Friendship
 
