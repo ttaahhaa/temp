@@ -18,33 +18,50 @@ Output n lines. Each line should contain a string consisting of m characters. Do
 3 3
 ##### output
 \###
+
 ..#
+
 \###
 
 ##### input
 3 4
 ##### output
 \####
+
 ...#
+
 \####
 
 ##### input
 5 3
 ##### output
 \###
+
 ..#
+
 \###
+
 \#..
+
 \###
+
 ##### input
 9 9
 ##### output
 \#########
+
 ........#
+
 \#########
+
 \#........
+
 \#########
+
 ........#
+
 \#########
+
 \#........
+
 \#########
