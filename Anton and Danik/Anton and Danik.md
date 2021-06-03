@@ -33,9 +33,9 @@ DADADA
 ##### output
 Friendship
 
-> Note
-In the first sample, Anton won 6 games, while Danik — only 1. Hence, the answer is "Anton".
+##### Note
+1. In the first sample, Anton won 6 games, while Danik — only 1. Hence, the answer is "Anton".
 
-In the second sample, Anton won 3 games and Danik won 4 games, so the answer is "Danik".
+2. In the second sample, Anton won 3 games and Danik won 4 games, so the answer is "Danik".
 
-In the third sample, both Anton and Danik won 3 games and the answer is "Friendship".
+3.  In the third sample, both Anton and Danik won 3 games and the answer is "Friendship".
