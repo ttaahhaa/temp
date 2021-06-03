@@ -27,14 +27,14 @@ If Anton and Danik won the same number of games, print "Friendship" (without quo
 >
 > DDDAADA
 ##### output
-Danik
+> Danik
 
 ##### input
 > 6
 >
 > DADADA
 ##### output
-Friendship
+> Friendship
 
 ---
 ##### Note
