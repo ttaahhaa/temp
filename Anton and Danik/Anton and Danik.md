@@ -33,6 +33,7 @@ DADADA
 ##### output
 Friendship
 
+---
 ##### Note
 1. In the first sample, Anton won 6 games, while Danik — only 1. Hence, the answer is "Anton".
 
