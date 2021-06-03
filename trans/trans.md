@@ -14,6 +14,7 @@ code
 edoc
 ##### output
 YES
+
 ---
 ##### input
 abb
@@ -21,6 +22,7 @@ abb
 aba
 ##### output
 NO
+
 ---
 ##### input
 code
@@ -28,5 +30,6 @@ code
 code
 ##### output
 NO
+
 ---
 Note: Don't use reverse function
