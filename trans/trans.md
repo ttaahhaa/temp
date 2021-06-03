@@ -9,27 +9,27 @@ The translation from the Berland language into the Birland language is not an ea
 
 ### Examples
 ##### input
-code
+> code
 
-edoc
+> edoc
 ##### output
-YES
+> YES
 
 ---
 ##### input
-abb
-
-aba
+> abb
+> 
+> aba
 ##### output
-NO
+> NO
 
 ---
 ##### input
-code
-
-code
+> code
+> 
+> code
 ##### output
-NO
+> NO
 
 ---
 Note: Don't use reverse function
